@@ -23,7 +23,7 @@ class Postform extends Component {
                         <textarea name="body" />
                     </div>
                     <br/>
-                    <button type="submit"></button>
+                    <button type="submit">Submit</button>
                 </form>   
             </div>
         )
